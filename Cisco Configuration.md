@@ -1,3 +1,12 @@
+# TO DO:
+
+Install the required software given below:
+      •     Cisco Packet tracer
+      
+The software is open source and you can download the latest version of the software in the given official link.
+This software is currently available on Windows, MacOS and Ubuntu, you can download it through the link given below.
+https://skillsforall.com/resources/lab-downloads?courseLang=en-US
+
 # CONFIGURATION :
 
 1. DLC Home Gateway:
